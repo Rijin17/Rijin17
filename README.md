@@ -24,11 +24,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Rijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rijin17&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rijin17&layout=compact&theme=tokyonight)
+![Rijin's GitHub stats](https://windows-xp-portfolio-five.vercel.app/)
 
 ---
 
 ### 📫 Connect with me
 <!-- Add your LinkedIn or Email links here -->
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/your-profile)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rijin-s-83455326b/))
