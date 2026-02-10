@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Rijin! 👋
 
-<!--
-**Rijin17/Rijin17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Engineer & Python Specialist
+*Transforming raw data into actionable insights.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌟 Featured Project: **Job Market Explorer**
+*A production-ready ETL pipeline compliant with modern Data Engineering standards.*
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Job Extraction ETL](https://github.com/Rijin17/job-extraction-etl)** | `Python` `SQL` `Docker` `Streamlit` | • Ingests jobs from **Remotive & The Muse** APIs.<br>• **Smart Upsert** logic to track job history.<br>• **Operational Logging** for monitoring health.<br>• **Interactive Dashboard** for filtering & export. |
+
+---
+
+### 📊 GitHub Stats
+![Rijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rijin17&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rijin17&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+<!-- Add your LinkedIn or Email links here -->
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/your-profile)
