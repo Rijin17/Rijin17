@@ -1,6 +1,6 @@
 # Hi there, I'm Rijin! 👋
 
-### 🚀 Data Engineer & Python Specialist
+### 🚀 Data Scientist & Python Specialist
 *Transforming raw data into actionable insights.*
 
 ---
